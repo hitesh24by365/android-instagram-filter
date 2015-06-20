@@ -43,7 +43,7 @@ public class GPUImageFilterTools {
         filters.addFilter("Lomo", FilterType.I_LOMO);
         filters.addFilter("LordKelvin", FilterType.I_LORDKELVIN);
         filters.addFilter("Nashville", FilterType.I_NASHVILLE);
-        filters.addFilter("Rise", FilterType.I_NASHVILLE);
+        filters.addFilter("Rise", FilterType.I_RISE);
 
         filters.addFilter("Sierra", FilterType.I_SIERRA);
         filters.addFilter("sutro", FilterType.I_SUTRO);
